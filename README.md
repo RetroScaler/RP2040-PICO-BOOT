@@ -11,7 +11,8 @@ The RP2040 PICO BOOT allows you to build your own IPL replacement modchip，It i
 
 3D Picture of PCBA
 
-<img src="PCB 3D MAP/20221014101708.jpg" alt="20221014101708" style="zoom:80%;" />
+<img src="PCB 3D MAP/20221020143248.jpg" alt="20221020143248" style="zoom:80%;" />
+<img src="PCB 3D MAP/20221020143300.jpg" alt="20221020143300" style="zoom:80%;" />
 
 The pinout 
 
