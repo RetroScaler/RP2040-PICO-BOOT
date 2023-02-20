@@ -23,3 +23,6 @@ The pinout
 Contributions, issues, and feature requests are welcome!
 
 if you like this project, stay tuned !
+
+You can quickly purchase the finished product with this link：[Go to AliExpress shopping platform](https://www.aliexpress.us/item/3256804731684211.html?spm=a2g0o.store_pc_allProduct.8148356.3.6d2d4653RMWMQH&pdp_npi=2%40dis%21USD%21US%20%244.60%21US%20%243.27%21%21%21%21%21%40211b88f116768734920522999e0baf%2112000031082566413%21sh&gatewayAdapt=glo2usa&_randl_shipto=US)
+
